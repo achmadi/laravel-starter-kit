@@ -1,5 +1,5 @@
 <?php
-echo "achmadi33333333333 test auto deployyyyyy";
+echo "achmadi33333333333 test auto deployyyyyy4444444444444";
 exit(__class__.'@'.__method__.'@'.__line__);
 /**
  * Laravel - A PHP Framework For Web Artisans
