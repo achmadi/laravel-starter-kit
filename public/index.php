@@ -1,4 +1,5 @@
 <?php
+exit(__class__.'@'.__method__.'@'.__line__);
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
